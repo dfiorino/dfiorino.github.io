@@ -95,42 +95,6 @@ found [here](https://arxiv.org/abs/1805.01847) on the arXiv.
 {: .text-left}
 
 
-## Statistical Deconvolution
-
-### Introduction
-In order to measure the cosmic ray energy spectrum, I used a deconvolution method called unfolding.
-Since not all showers reach the ground or trigger our detector, and the fact that our HAWC is, sadly,
-not perfect, we can take into account these measurement inefficiencies and biases to *unfold* an 
-estimate of the true spectrum.
-Basically, we build what's called a response function which connects the probability of a true **cause**
-that we want to estimate to produce a **effect** we can measure.
-This method is great for experimental situations where a perfect analytic form of this function is not
-known or easy to construct.
-Instead we build a matrix from simulation that allows us to do the unfolding.
-This method falls under the category of inverse problems, where for sets of causes \\(c_{\mu}\\) and effects \\(e_j\\),
-and a constructed response matrix \\(\mathbf{R}\\), we want to find \\(\mathbf{M} \approx \mathbf{R}^{-1}\\) such that
-
-$$
-\mathbf{e} = \mathbf{R} \, \mathbf{c} \\
-\mathbf{c} = \mathbf{M} \, \mathbf{e}
-$$
-
-D'Agostini in his 1995 [paper](https://www.sciencedirect.com/science/article/pii/016890029500274X)
-developed a method that starts from Bayes' Theorem to obtain an approximate form for \\(\mathbf{R}^{-1}\\).
-This iterative unfolding procedure is widely-used in the high-energy physics community (HEP) and 
-has some advantages over other matrix inversion methods, for example in cases where no inverse actually exists.
-
-### PyUnfold
-![pyunfold-image](/assets/images/pyunfold.png){:height="20%" width="20%"}{: .align-right}
-{: .text-left}
-The code I designed for the HAWC cosmic ray measurement has been generalized for use beyond the HEP community 
-by myself and another astrophysicist (with some updates from D'Agostini's original version),
-and is now packaged as [PyUnfold](https://jrbourbeau.github.io/pyunfold/index.html).
-The project was recently published in the Journal of Open Source Software
-[![DOI](http://joss.theoj.org/papers/10.21105/joss.00741/status.svg)](https://doi.org/10.21105/joss.00741)
-also available on [Zenodo](https://zenodo.org/record/1258211).
-
-
 
 ## Publications
 

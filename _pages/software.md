@@ -15,34 +15,16 @@ header:
 mathjax: true
 ---
 
-I am an active developer and maintainer of several projects in the Python data science community,
-as well as a reviewer for the Journal of Open Source Software ([JOSS](http://joss.theoj.org/)).
+After many years of writing code for the HAWC Observatory, I am just getting
+started in the open-source community. I am quickly finding ways to re-purpose
+my coding experience into useful projects.
 
-See my [GitHub profile](http://github.com/zhampel) for further details.
+See my [GitHub profile](http://github.com/dfiorino) for further details.
 
 ## Maintainer
 
-### CypherCat
-Python package for security in machine learning applications, specifically model attacks and defenses.
-- [GitHub](https://github.com/Lab41/cyphercat) repo
+### AUDL-Pull
+A super user-friendly Python project for extraction of sports data (ultimate
+frisbee) and tutorials for data exploration using Pandas.
+- [GitHub](https://github.com/dfiorino/audl-pull) repo
 - Documentation forthcoming.
-
-### PyUnfold
-
-Python package for performing statistical deconvolution.
-- [GitHub](https://github.com/zhampel/pyunfold) repo
-- [Documentation](https://jrbourbeau.github.io/pyunfold/index.html)
-- J.O.S.S Publication [![DOI](http://joss.theoj.org/papers/10.21105/joss.00741/status.svg)](https://doi.org/10.21105/joss.00741)
-
-### Charged Particle Propagation Visualization
-
-Python tool for visualizing charged particle propagation in the Earth's magnetic field.
-- [GitHub](https://github.com/zhampel/cr-igrf-prop) repo
-- Demonstrations using the [IGRF](https://youtu.be/0FDwW1mo2Vk) and [dipole](https://youtu.be/YA2j0FwJTsI) models
-
-
-### Rotational Convolution Layer
-
-Implementation of a rotating convolutional kernel operation in TensorFlow.
-- [GitHub](https://github.com/zhampel/rot-inv-conv) repo
-- [Presentation](http://bit.ly/zhampel-rot-inv-conv-slides) slides
