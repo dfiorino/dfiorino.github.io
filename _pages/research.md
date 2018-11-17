@@ -10,8 +10,6 @@ scope:
 toc: true
 toc_label: "Research"
 header:
-  overlay_image: /assets/images/sunset-gsl.jpg
-  caption: "&#169; Z. Hampel-Arias"
 mathjax: true
 ---
 
