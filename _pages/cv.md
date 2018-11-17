@@ -17,16 +17,12 @@ mathjax: true
 <div>
     <p>I am experienced with:</p>
     <ul>
-<!--This is a comment. Comments are not displayed in the browser
 
         <li>
-            <p>Data analysis, in particular big data, statistics, deconvolution, modeling & simulation</p>
+            <p>Data analysis and algorithm building</p>
         </li>
         <li>
-            <p>Python, C, C++ programming</p>
-        </li>
-        <li>
-            <p>Machine learning (scikit-learn, TensorFlow, Keras)</p>
+            <p><strong>Programming</strong> in Python, C, C++, Bash, and others</p>
         </li>
         <li>
             <p>Scientific computing (NumPy, SciPy, Pandas, PyOpenCL)</p>
@@ -35,14 +31,18 @@ mathjax: true
             <p>Distributed and parallel computing (SLURM, PBS, HTCondor)</p>
         </li>
         <li>
-            <p>Data visualization (matplotlib, PyOpenGL)</p>
+            <p><strong>Data visualization</strong> that tells stories and
+diagnoses problems (Geospatial, time-series, categorical, etc.)</p>
         </li>
         <li>
-            <p>Version control systems (SVN, Git)</p>
+            <p><strong>Software development practices</strong> (Version control, Agile practices)</p>
         </li>
         <li>
-            <p>Public speaking, mentoring, and leadership roles</p>
-        </li>-->
+            <p><strong>Effective public speaking</strong> in front of audiences of experts, laypeople, and key stakeholders alike </p>
+        </li>
+        <li> <strong>Mananging, mentoring, and leading</strong> by providing a steady
+hand to teams dealing with complex issues on which all voices are heard.
+        </li>
     </ul>
 </div>
 
