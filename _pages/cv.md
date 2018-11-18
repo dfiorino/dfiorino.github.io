@@ -19,29 +19,35 @@ mathjax: true
     <ul>
 
         <li>
-            <p>Data analysis and algorithm building</p>
+            <p><strong>Data analysis</strong> and algorithm building/</p>
         </li>
         <li>
-            <p><strong>Programming</strong> in Python, C, C++, Bash, and others</p>
+            <p><strong>Programming</strong> in Python, C, C++, Bash, 
+             and others.</p>
         </li>
         <li>
-            <p>Scientific computing (NumPy, SciPy, Pandas, PyOpenCL)</p>
+            <p><strong>Scientific computing</strong> 
+               (NumPy, SciPy, Pandas).</p>
         </li>
         <li>
-            <p>Distributed and parallel computing (SLURM, PBS, HTCondor)</p>
+            <p><strong>Distributed and parallel computing</strong> 
+               (SLURM, PBS).</p>
         </li>
         <li>
             <p><strong>Data visualization</strong> that tells stories and
-diagnoses problems (Geospatial, time-series, categorical, etc.)</p>
+            diagnoses problems (Geospatial, time-series, categorical, etc.).</p>
         </li>
         <li>
-            <p><strong>Software development practices</strong> (Version control, Agile practices)</p>
+            <p><strong>Software development practices</strong> 
+               (Version control, Agile practices).</p>
         </li>
         <li>
-            <p><strong>Effective public speaking</strong> in front of audiences of experts, laypeople, and key stakeholders alike </p>
+            <p><strong>Effective public speaking</strong> in front of 
+            audiences of experts, laypeople, and key stakeholders alike. </p>
         </li>
-        <li> <strong>Mananging, mentoring, and leading</strong> by providing a steady
-hand to teams dealing with complex issues on which all voices are heard.
+        <li> <strong>Mananging, mentoring, and leading</strong> by 
+             providing a steady hand to teams dealing with complex 
+             issues on which all voices are heard.
         </li>
     </ul>
 </div>
@@ -50,9 +56,9 @@ hand to teams dealing with complex issues on which all voices are heard.
 ## Education
 PhD, Physics<br>
 University of Wisconsin&mdash;Madison<br>
-Thesis Advisor: Prof. Stefan Westerhoff<br>
+<!--Thesis Advisor: Prof. Stefan Westerhoff<br>
 Thesis Title: <b>Observation of TeV-Energy Cosmic-Ray Anisotropy with the HAWC Observatory</b><br>
-Degree Title: Computational Particle Astrophysics
+Degree Title: Computational Particle Astrophysics-->
 
 BS, Physics<br>
 DePaul University<br>
@@ -70,7 +76,6 @@ Espa&ntilde;ol (Novice)
 "PyUnfold: the Python Package for Iterative Unfolding" <br>
 Talk at IIHE, ULB, Bruxelles, Belgium. <br>
 [Slides](https://zhampel.github.io/intro-pyunfold-iihe/)-->
-
 
 
 ## Selected Publications
