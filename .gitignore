@@ -3,3 +3,4 @@ _site
 .jekyll-metadata
 CNAME
 *.DS_Store
+**ipynb_checkpoints

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Sports Analytics
-permalink: /sports-analytics/
+permalink: /sportsanalytics/
 author_profile: true
 type: pages
 scope:
@@ -13,14 +13,14 @@ header:
 mathjax: true
 ---
 
-<p>
+
 Ultimate frisbee has been a passion on mine since high school. As the sport enters prominence, I have
 been able to leverage play-by-play data to further my technical skills while continuing to participate
 in the ultimate frisbee community!
-
+<br>
 For this purpose, I've created <strong>SOTG Stats</strong> - a media account to share my work on analyzing
 and visualizing ultimate frisbee data. Through SOTG Stats, I have:
-</p>
+<br>
 
 <ul>
   <li>
@@ -38,7 +38,7 @@ and visualizing ultimate frisbee data. Through SOTG Stats, I have:
   </li>
   <li>
     <p>
-    Posted over 100 graphics and insights and collected 700 followers on my social media accounts  
+    Posted over 100 graphics and insights and collected 700 followers on my social media accounts.
     </p>
   </li>
 </ul>
