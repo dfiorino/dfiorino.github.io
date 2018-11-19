@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Sports Analytics
-permalink: /sportsanalytics/
+permalink: /sports-analytics/
 author_profile: true
 type: pages
 scope:
