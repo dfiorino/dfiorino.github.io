@@ -10,7 +10,7 @@ main:
     url: /resume/
   - title: "Astrophysics"
     url: /astrophysics/
-  - title: "Software"
-    url: /software/
   - title: "Sports Analytics"
     url: /sports-analytics/
+  - title: "Software"
+    url: /software/
