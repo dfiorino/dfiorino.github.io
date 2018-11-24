@@ -40,7 +40,7 @@ gallery:
 
 ## SOTG Stats
 Ultimate frisbee has been a passion on mine since high school.
-I've leveaged that passion to further my technical skills
+I've leveraged that passion to further my technical skills
 by creating <strong>SOTG Stats</strong> - a media account to 
 share my work on analyzing and visualizing ultimate frisbee data:
 <br>
