@@ -12,7 +12,7 @@ toc_label: "Sports Analytics"
 header:
 mathjax: true
 gallery:
-  - image_path: /assets/images/distances.jpg
+  - image_path: /assets/images/distance.jpg
     alt: "Distance Traveled by Team"
     title: "Distance Traveled by Team"
 ---
@@ -30,21 +30,16 @@ and visualizing ultimate frisbee data. Through SOTG Stats, I have:
 
 <ul>
   <li>
-    <p>
-    Created <a href=https://github.com/dfiorino/audl-pull><strong>AUDL-Pull</strong></a> - a super user-friendly Python project for extraction of ultimate
-    frisbee data. The project is open-source on Github and includes tutorials for data exploration using Pandas.
-    </p>
+    <p> Created <a href="https://github.com/dfiorino/audl-pull"><strong>AUDL-Pull</strong></a> - a super user-friendly Python project for extraction of ultimate
+    frisbee data. The project is open-source on Github and includes tutorials for data exploration using Pandas.</p>
   </li>
   <li>
-    <p>
-    Became an <a href=https://ultiworld.com/author/dfiorino/>author on Ultiworld</a>, a small media company focused on covering ultimate frisbee. 
-    </p>
+    <p> Became an <a href="https://ultiworld.com/author/dfiorino/">author on Ultiworld</a>, a small media company focused on covering ultimate frisbee. </p>
   </li>
   <li>
-    <p>
-    Posted over 100 graphics and insights and collected 700 followers on my
-social media accounts. (<a href=https://twitter.com/sotgstats>Twitter</a>,<a href=https://www.instagram.com/statsofthegame>Instagram</a><<a href=https://www.facebook.com/sotgstats/>Facebook</a>)
-    </p>
+    <p> Posted over 100 graphics and insights and collected 700 followers on my
+social media accounts. (<a href="https://twitter.com/sotgstats">Twitter</a>,<a
+href="https://www.instagram.com/statsofthegame">Instagram</a>,<a href="https://www.facebook.com/sotgstats/">Facebook</a>) </p>
   </li>
 </ul>
 
