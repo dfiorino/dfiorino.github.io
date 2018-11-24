@@ -1,15 +1,16 @@
 ---
 layout: single
-title: Research
-permalink: /research/
+title: Astrophysics
+permalink: /astrophysics/
 author_profile: true
 type: pages
 scope:
     path: ""
     type: pages
 toc: true
-toc_label: "Research"
+toc_label: "Astrophysics"
 header:
+     (content courtesy of Zigfried Hampel-Arias - for now!)
 mathjax: true
 ---
 

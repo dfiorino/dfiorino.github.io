@@ -44,6 +44,3 @@ and visualizing ultimate frisbee data. Through SOTG Stats, I have:
 </ul>
 
 
-<p><iframe style="border: 1px solid #ccc" width="100%" height="400"
-src="/map-notebook/where-in-the-world.html?inline=true"></iframe></p>
-
