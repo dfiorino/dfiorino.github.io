@@ -12,9 +12,24 @@ toc_label: "Sports Analytics"
 header:
 mathjax: true
 gallery:
-  - image_path: /assets/images/distance.jpg
+  - image_path: /assets/images/sotgstats/distance.jpg
     alt: "Distance Traveled by Team"
     title: "Distance Traveled by Team"
+  - image_path: /assets/images/sotgstats/teamcompletions.jpg
+    alt: "Player Completion Percentages by Team"
+    title: "Player Completion Percentages by Team"
+  - image_path: /assets/images/sotgstats/Nethecutt_starbust.png
+    alt: "Individual Impact - Single Game"
+    title: "Individual Impact - Single Game"
+  - image_path: /assets/images/sotgstats/parity_midwest.png
+    alt: "Wins and Losses within a Division"
+    title: "Wins and Losses within a Division"
+  - image_path: /assets/images/sotgstats/throwing.png
+    alt: "Player Interactions - Passing/Catching"
+    title: "Player Interactions - Passing/Catching"
+  - image_path: /assets/images/sotgstats/netstats_2018.png
+    alt: "Individual Cumulative Stats"
+    title: "Individual Cumulative Stats"
 ---
 
 
