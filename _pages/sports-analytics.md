@@ -12,22 +12,28 @@ toc_label: "Sports Analytics"
 header:
 mathjax: true
 gallery:
-  - image_path: /assets/images/sotgstats/distance.jpg
+  - url: /assets/images/sotgstats/distance.jpg
+    image_path: /assets/images/sotgstats/distance.jpg
     alt: "Distance Traveled by Team"
     title: "Distance Traveled by Team"
-  - image_path: /assets/images/sotgstats/teamcompletions.jpg
+  - url: /assets/images/sotgstats/teamcompletions.jpg
+    image_path: /assets/images/sotgstats/teamcompletions.jpg
     alt: "Player Completion Percentages by Team"
     title: "Player Completion Percentages by Team"
-  - image_path: /assets/images/sotgstats/Nethecutt_starbust.png
+  - url: /assets/images/sotgstats/Nethercutt_starbust.png
+    image_path: /assets/images/sotgstats/Nethercutt_starbust.png
     alt: "Individual Impact - Single Game"
     title: "Individual Impact - Single Game"
-  - image_path: /assets/images/sotgstats/parity_midwest.png
+  - url: /assets/images/sotgstats/parity_midwest.png
+    image_path: /assets/images/sotgstats/parity_midwest.png
     alt: "Wins and Losses within a Division"
     title: "Wins and Losses within a Division"
-  - image_path: /assets/images/sotgstats/throwing.png
+  - url: /assets/images/sotgstats/throwing.png
+    image_path: /assets/images/sotgstats/throwing.png
     alt: "Player Interactions - Passing/Catching"
     title: "Player Interactions - Passing/Catching"
-  - image_path: /assets/images/sotgstats/netstats_2018.png
+  - url: /assets/images/sotgstats/net_stats_2018.png
+    image_path: /assets/images/sotgstats/net_stats_2018.png
     alt: "Individual Cumulative Stats"
     title: "Individual Cumulative Stats"
 ---
@@ -58,7 +64,7 @@ href="https://www.instagram.com/statsofthegame">Instagram</a>,<a href="https://w
   </li>
 </ul>
 
-{% include gallery caption="Sample of SOTG Stats Graphics." %}
+{% include gallery caption="" %}
 
 
 
