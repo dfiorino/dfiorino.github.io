@@ -16,26 +16,6 @@ gallery:
     image_path: /assets/images/sotgstats/distance.jpg
     alt: "Distance Traveled by Team"
     title: "Distance Traveled by Team"
-  - url: /assets/images/sotgstats/throwing.png
-    image_path: /assets/images/sotgstats/throwing.png
-    alt: "Player Interactions - Passing/Catching"
-    title: "Player Interactions - Passing/Catching"
-  - url: /assets/images/sotgstats/Nethercutt_starburst.png
-    image_path: /assets/images/sotgstats/Nethercutt_starburst.png
-    alt: "Player Impact - Single Game"
-    title: "Player Impact - Single Game"
-  - url: /assets/images/sotgstats/parity_midwest.png
-    image_path: /assets/images/sotgstats/parity_midwest.png
-    alt: "Wins and Losses within a Division"
-    title: "Wins and Losses within a Division"
-  - url: /assets/images/sotgstats/netstats_2018.png
-    image_path: /assets/images/sotgstats/netstats_2018.png
-    alt: "Player Cumulative Stats"
-    title: "Player Cumulative Stats"
-  - url: /assets/images/sotgstats/teamcompletions.png
-    image_path: /assets/images/sotgstats/teamcompletions.png
-    alt: "Player Completion Percentages by Team"
-    title: "Player Completion Percentages by Team"
   - url: /assets/images/sotgstats/passing_heatmaps.gif
     image_path: /assets/images/sotgstats/passing_heatmaps.gif
     alt: "Player Passing Heat Maps"
@@ -44,10 +24,30 @@ gallery:
     image_path: /assets/images/sotgstats/scoring_efficiency.gif
     alt: "Scoring Efficiency v. Winning"
     title: "Scoring Efficiency v. Winning: Tradeoff between Offense and Defense"
+  - url: /assets/images/sotgstats/teamcompletions.png
+    image_path: /assets/images/sotgstats/teamcompletions.png
+    alt: "Player Completion Percentages by Team"
+    title: "Player Completion Percentages by Team"
   - url: /assets/images/sotgstats/winneogram.png
     image_path: /assets/images/sotgstats/winneogram.png
     alt: "Franchise Wins and Losses"
     title: "Franchise Wins and Losses"
+  - url: /assets/images/sotgstats/throwing.png
+    image_path: /assets/images/sotgstats/throwing.png
+    alt: "Player Interactions - Passing/Catching"
+    title: "Player Interactions - Passing/Catching"
+  - url: /assets/images/sotgstats/parity_midwest.png
+    image_path: /assets/images/sotgstats/parity_midwest.png
+    alt: "Wins and Losses within a Division"
+    title: "Wins and Losses within a Division"
+  - url: /assets/images/sotgstats/netstats_2018.png
+    image_path: /assets/images/sotgstats/netstats_2018.png
+    alt: "Player Cumulative Stats"
+    title: "Player Cumulative Stats"
+  - url: /assets/images/sotgstats/Nethercutt_starburst.png
+    image_path: /assets/images/sotgstats/Nethercutt_starburst.png
+    alt: "Player Impact - Single Game"
+    title: "Player Impact - Single Game"
 ---
 
 ## SOTG Stats
