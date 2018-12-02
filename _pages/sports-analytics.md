@@ -50,30 +50,15 @@ gallery:
     title: "Player Impact - Single Game"
 ---
 
-## SOTG Stats
-Ultimate frisbee has been a passion on mine since high school.
-I've leveraged that passion to further my technical skills
-by creating <strong>SOTG Stats</strong> - a media account to 
-share my work on analyzing and visualizing ultimate frisbee data:
-<br>
-<br>
-<ul>
-  <li>
-    <p> Created <a href="https://github.com/dfiorino/audl-pull">AUDL-Pull</a> 
-    - a super user-friendly Python project for extraction and analysis of 
-    ultimate frisbee data. </p>
-  </li>
-  <li>
-    <p> Became an <a href="https://ultiworld.com/author/dfiorino/">author on Ultiworld</a>, a small media company focused on ultimate frisbee. </p>
-  </li>
-  <li>
-    <p> Posted over 100 graphics and insights and collected 700 followers on my
-social media accounts. (<a href="https://twitter.com/sotgstats">Twitter</a>,<a
-href="https://www.instagram.com/statsofthegame">Instagram</a>,<a href="https://www.facebook.com/sotgstats/">Facebook</a>) </p>
-  </li>
-</ul>
-
-## Gallery of Data Visualizations
+I analyze and visualize play-by-play ultimate frisbee data using my
+social media account <strong>SOTG Stats</strong>
+(<a href="https://twitter.com/sotgstats">Twitter</a>,<a
+href="https://www.instagram.com/statsofthegame">Instagram</a>,<a
+href="https://www.facebook.com/sotgstats/">Facebook</a>). It's accrued about 
+700 followers and has led to the
+creation of <a href="https://github.com/dfiorino/audl-pull">AUDL-Pull</a>,
+becoming an <a href="https://ultiworld.com/author/dfiorino/">author on
+Ultiworld</a>, and over 100 graphics and insights.
 
 {% include gallery caption="" %}
 
