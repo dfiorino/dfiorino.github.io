@@ -54,9 +54,9 @@ I analyze and visualize play-by-play ultimate frisbee data using my
 social media account <strong>SOTG Stats</strong>
 (<a href="https://twitter.com/sotgstats">Twitter</a>,<a
 href="https://www.instagram.com/statsofthegame">Instagram</a>,<a
-href="https://www.facebook.com/sotgstats/">Facebook</a>). It's accrued about 
-700 followers and has led to the
-creation of <a href="https://github.com/dfiorino/audl-pull">AUDL-Pull</a>,
+href="https://www.facebook.com/sotgstats/">Facebook</a>). It's accrued over 
+800 followers and has led to the
+creation of <a href="https://dfiorino.github.io/ultianalyticspull/">UltiAnalytics Pull</a>,
 becoming an <a href="https://ultiworld.com/author/dfiorino/">author on
 Ultiworld</a>, and over 100 graphics and insights.
 
